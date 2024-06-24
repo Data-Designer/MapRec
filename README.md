@@ -1,6 +1,6 @@
 ### Cross-domain Transfer of Valence Preferences via a Meta-optimization Approach
 
-Here is an anonymous repository for *Cross-domain Transfer of Valence Preferences via a Meta-optimization Approach*, which has been submitted to *TPAMI*. We provide the original files of the sample datasets, preprocessing scripts, and algorithm files to demonstrate our reproducibility. All data sets and codes will be released upon acceptance.
+Here is an anonymous repository for *Cross-domain Transfer of Valence Preferences via a Meta-optimization Approach*, which has been submitted to *TWeb*. We provide the original files of the sample datasets, preprocessing scripts, and algorithm files to demonstrate our reproducibility. All data sets and codes will be released upon acceptance.
 
 
 
